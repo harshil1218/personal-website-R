@@ -1,6 +1,6 @@
 /* Extra clearance between stacked cards and chapter navigation on phones. */
 @media (max-width: 760px) {
   .chapter-actions {
-    margin-top: 36px;
+    margin-top: 64px;
   }
 }
