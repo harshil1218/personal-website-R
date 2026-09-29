@@ -11,8 +11,8 @@ export async function POST() {
     await transporter.sendMail({
       from: user,
       to: "harshil180704@gmail.com",
-      subject: "Ruta said YES! <3",
-      text: "Ruta just said YES to your proposal!\n\nThe website received a YES response.\n\nThis is the beginning of something beautiful."
+      subject: "Hina Parmar said YES! <3",
+      text: "Hina Parmar just said YES to your proposal!\n\nThe website received a YES response.\n\nThis is the beginning of something beautiful."
     });
     return NextResponse.json({ delivered: true });
   } catch {

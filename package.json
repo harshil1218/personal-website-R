@@ -1,5 +1,5 @@
 {
-  "name": "harshil-ruta-story",
+  "name": "harshil-hina-parmar-story",
   "version": "1.0.0",
   "private": true,
   "scripts": { "dev": "next dev", "build": "next build", "start": "next start", "lint": "next lint" },
